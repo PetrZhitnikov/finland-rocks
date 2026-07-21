@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<gpx creator="Maptrails" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:wp1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="61.566033" lon="21.480933">
+    <name>Rock 1</name>
+    <desc>2mx2m, 1m underwater</desc>
+  </wpt>
+  <wpt lat="61.56515" lon="21.484067">
+    <name>Danger! 30cm</name>
+    <desc>3mx2m, 30cm underwater</desc>
+  </wpt>
+  <wpt lat="61.564983" lon="21.484733">
+    <name>1m</name>
+    <desc>2 rocks, 1.5mx1.5m, 1m underwater</desc>
+  </wpt>
+  <wpt lat="61.564483" lon="21.484433">
+    <name>1m</name>
+    <desc>2mx2m, 1m underwater</desc>
+  </wpt>
+  <wpt lat="61.56285" lon="21.490533">
+    <name>1.4m</name>
+    <desc>1.4m underwater</desc>
+  </wpt>
+  <wpt lat="61.5674128" lon="21.510981">
+    <name>Visible</name>
+  </wpt>
+  <wpt lat="61.5681082" lon="21.509536">
+    <name>30cm</name>
+  </wpt>
+  <wpt lat="61.568261" lon="21.50909">
+    <name>30cm</name>
+  </wpt>
+  <wpt lat="61.5670625" lon="21.5096875">
+    <name>30cm</name>
+  </wpt>
+  <wpt lat="61.5666875" lon="21.5098125">
+    <name>30cm</name>
+  </wpt>
+  <wpt lat="61.5687488" lon="21.5115945">
+    <name>30cm</name>
+  </wpt>
+  <wpt lat="61.5676388888889" lon="21.5103888888889">
+    <name>60cm</name>
+  </wpt>
+  <wpt lat="61.5666875" lon="21.5100625">
+    <name>60cm</name>
+  </wpt>
+  <wpt lat="61.5658125" lon="21.5133125">
+    <name>60cm</name>
+  </wpt>
+</gpx>
